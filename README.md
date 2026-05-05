@@ -154,3 +154,7 @@ This report helps in understanding customer purchasing trends and provides actio
 
 ---
 
+## 👤 Author
+**BINAY BORO**
+Email:boronishan7@gmail.com
+LinkedIn :https://www.linkedin.com/in/binay-boro-265956394
