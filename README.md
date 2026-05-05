@@ -75,3 +75,82 @@ These KPIs give a quick snapshot of overall sales performance and customer engag
 
 This dashboard provides a simple yet powerful way to monitor sales performance and uncover actionable insights. It is ideal for business analysts, students, and decision-makers looking to understand data quickly and effectively.
 
+
+
+# 📊 Consumer Behavior Report
+
+## 📌 Overview
+
+This project presents a **Consumer Behavior Analysis Report** that examines purchasing patterns based on customer demographics such as gender and age. The report highlights how different customer segments contribute to overall purchase amounts, enabling better business decision-making.
+
+---
+
+## 🎯 Objectives
+
+* Analyze customer purchase behavior
+* Identify trends based on **gender and age groups**
+* Highlight high-value and low-value customers
+* Support data-driven marketing and sales strategies
+
+---
+
+## 📂 Dataset Description
+
+The dataset used in this report contains the following fields:
+
+* **Customer ID** – Unique identifier for each customer
+* **Gender** – Male / Female classification
+* **Age** – Customer age
+* **Purchase Amount** – Total spending by the customer
+
+---
+
+## 📊 Key Features of the Report
+
+* Clean tabular representation of customer data
+* Conditional formatting applied to purchase amounts:
+
+  * 🟢 High purchase values
+  * 🟡 Medium purchase values
+  * 🔴 Low purchase values
+* Easy identification of spending patterns
+
+---
+
+## 📈 Insights
+
+* Certain age groups show higher purchasing behavior
+* Gender-based differences in spending patterns can be observed
+* High-value customers are clearly highlighted for targeted strategies
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* Data visualization tools (e.g., Excel / BI tools)
+* Basic data analysis techniques
+* Conditional formatting for better visual insights
+
+---
+
+## 🚀 Use Cases
+
+* Customer segmentation
+* Targeted marketing campaigns
+* Sales performance analysis
+* Business decision support
+
+---
+
+## 📷 Preview
+
+The report includes a visual table with color-coded purchase amounts for quick interpretation of customer spending behavior.
+
+---
+
+## 📎 Conclusion
+
+This report helps in understanding customer purchasing trends and provides actionable insights that can be used to improve marketing strategies and increase overall revenue.
+
+---
+
